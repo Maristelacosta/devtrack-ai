@@ -1,94 +1,209 @@
 # 🚀 DevTrack AI
 
-> Transformando dados de desenvolvimento em insights acionáveis.
+> Transformando dados de desenvolvimento em insights inteligentes.
 
-O **DevTrack AI** é uma plataforma de monitoramento e análise para equipes de desenvolvimento de software que desejam obter visibilidade completa sobre projetos, tarefas, produtividade e métricas de engenharia.
+O **DevTrack AI** é uma plataforma moderna para monitoramento e análise de projetos de software, desenvolvida para ajudar equipes de tecnologia a acompanhar produtividade, entregas e métricas de engenharia em tempo real.
 
-Através de dashboards inteligentes e análises em tempo real, a plataforma ajuda desenvolvedores, tech leads e gestores a identificar gargalos, acompanhar entregas e otimizar o fluxo de desenvolvimento sem depender de relatórios manuais ou reuniões excessivas de status.
+A aplicação centraliza informações relevantes do ciclo de desenvolvimento e utiliza Inteligência Artificial para gerar insights que facilitam a tomada de decisões, reduzem gargalos e aumentam a previsibilidade das entregas.
+
+---
 
 ## ✨ Principais Funcionalidades
 
-- 📊 Dashboards de acompanhamento em tempo real
-- 📈 Métricas de produtividade e evolução de projetos
+- 📊 Dashboard com métricas de desenvolvimento
+- 📈 Monitoramento de produtividade
 - 🤖 Insights gerados por Inteligência Artificial
-- 🔍 Identificação automática de gargalos e riscos
-- 📋 Gestão centralizada de tarefas e atividades
-- 🚀 Monitoramento contínuo do ciclo de desenvolvimento
-- 📉 Análise de desempenho e previsibilidade de entregas
+- 🔍 Identificação de gargalos e riscos
+- 📋 Gestão e acompanhamento de tarefas
+- 🚀 Visualização do progresso dos projetos
+- 📉 Indicadores de performance em tempo real
+- 🎯 Interface moderna e responsiva
+
+---
 
 ## 🎯 Objetivo
 
-Desenvolver software moderno exige mais do que apenas acompanhar tarefas. O DevTrack AI foi criado para fornecer dados estratégicos sobre o processo de desenvolvimento, ajudando equipes a:
+O DevTrack AI foi criado para fornecer uma visão clara e estratégica do processo de desenvolvimento de software.
 
-- Melhorar a produtividade
-- Reduzir bloqueios e retrabalho
-- Aumentar a previsibilidade das entregas
-- Tomar decisões orientadas por dados
-- Melhorar a colaboração entre times
+A plataforma permite que desenvolvedores, líderes técnicos e gestores monitorem o desempenho dos projetos através de dados reais, reduzindo a dependência de controles manuais e aumentando a eficiência operacional.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+### Frontend
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Shadcn/UI
+- React Router
+- Lucide React
+
+### Backend & APIs
+
+- Node.js
+- REST APIs
+- Integrações externas
+
+### Inteligência Artificial
+
+- OpenAI API
+- Processamento de Linguagem Natural (NLP)
+- Geração de Insights Automatizados
+
+### Dados e Analytics
+
+- Dashboards Interativos
+- Monitoramento de Métricas
+- Análise de Desempenho
+- Visualização de Dados
+
+### Ferramentas de Desenvolvimento
+
+- Git
+- GitHub
+- ESLint
+- Prettier
+
+### Deploy
+
+- Vercel
+- CI/CD
+- Gerenciamento de Variáveis de Ambiente
+
+---
+
+## 🏗️ Arquitetura
+
+O projeto foi desenvolvido seguindo boas práticas de engenharia de software:
+
+- Componentização
+- Reutilização de código
+- Arquitetura escalável
+- Responsividade
+- Tipagem estática
+- Separação de responsabilidades
+- Código de fácil manutenção
+
+---
+
+## 📚 Conceitos Aplicados
+
+- Desenvolvimento Frontend Moderno
+- Integração com APIs
+- Inteligência Artificial aplicada a produtos
+- Design Responsivo
+- Gerenciamento de Estado
+- UX/UI
+- Engenharia de Prompts
+- Data Visualization
+- Clean Code
+
+---
 
 ## 👨‍💻 Público-Alvo
 
+- Desenvolvedores Front-end
+- Desenvolvedores Back-end
 - Desenvolvedores Full Stack
-- Front-end Developers
-- Back-end Developers
 - Tech Leads
 - Engineering Managers
 - Product Managers
-- Startups e Squads Ágeis
+- Equipes Ágeis
 
-## 🏗️ Visão
-
-Acreditamos que as melhores equipes de engenharia são aquelas que conseguem transformar dados operacionais em inteligência contínua.
-
-O DevTrack AI centraliza informações críticas do desenvolvimento e as converte em insights claros para acelerar decisões e aumentar a eficiência dos times.
+---
 
 ## 📊 Benefícios
 
-✅ Maior visibilidade dos projetos
+✅ Melhora a visibilidade dos projetos
 
-✅ Menos tempo gasto com acompanhamento manual
+✅ Identifica gargalos rapidamente
 
-✅ Identificação rápida de gargalos
+✅ Facilita a tomada de decisões
 
-✅ Melhor alinhamento entre equipe e negócio
+✅ Reduz o acompanhamento manual
 
-✅ Tomada de decisão baseada em métricas reais
+✅ Centraliza informações importantes
 
-✅ Maior previsibilidade de entregas
+✅ Aumenta a previsibilidade das entregas
 
-## 🚀 Começando
+✅ Impulsiona a produtividade da equipe
+
+---
+
+## 🚀 Executando o Projeto
+
+### Clone o repositório
 
 ```bash
-# Clone o repositório
-git clone <repository-url>
+git clone https://github.com/Maristelacosta/devtrack-ai.git
+```
 
-# Instale as dependências
+### Acesse a pasta do projeto
+
+```bash
+cd devtrack-ai
+```
+
+### Instale as dependências
+
+```bash
 npm install
+```
 
-# Execute o projeto
+### Execute o ambiente de desenvolvimento
+
+```bash
 npm run dev
 ```
 
-A aplicação estará disponível em:
+### Aplicação disponível em
 
 ```text
 http://localhost:3000
 ```
 
+---
+
 ## 🔮 Roadmap
 
 - [ ] Integração com GitHub
-- [ ] Integração com GitLab
-- [ ] Análise de Pull Requests via IA
 - [ ] Métricas DORA
-- [ ] Monitoramento de Sprints
-- [ ] Relatórios inteligentes automatizados
-- [ ] Previsão de atrasos baseada em Machine Learning
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+- [ ] Monitoramento de Pull Requests
+- [ ] Análise automática de código com IA
+- [ ] Relatórios inteligentes
+- [ ] Dashboard avançado para Tech Leads
+- [ ] Insights preditivos de produtividade
 
 ---
 
-**DevTrack AI** • Code. Track. Improve.
+## 🌟 Diferenciais do Projeto
+
+- Aplicação baseada em um problema real do mercado.
+- Utilização de Inteligência Artificial para análise de produtividade.
+- Interface moderna e intuitiva.
+- Arquitetura preparada para escalabilidade.
+- Foco em observabilidade e métricas de engenharia.
+- Demonstração prática de habilidades Full Stack.
+
+---
+
+## 👩‍💻 Autora
+
+**Maristela Costa**
+
+Desenvolvedora focada em criação de soluções inovadoras utilizando desenvolvimento web moderno, análise de dados e Inteligência Artificial para resolver problemas reais de negócio.
+
+GitHub: https://github.com/Maristelacosta
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+### Code. Track. Improve. 🚀
